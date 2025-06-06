@@ -1,16 +1,67 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋, I'm Joshua Simotwo</h1>
 
-<!--
-**joshua740/joshua740** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://www.linkedin.com/in/simotwo01" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+  <a href="https://x.com/SjJoshie" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&style=for-the-badge" height="25" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+Hi, I'm **Joshua Simotwo**, a passionate **Data Scientist**, **AI/ML enthusiast**, and budding **Full-Stack Developer**.  
+- 🧠 Skilled in Python and its ML/DL libraries (TensorFlow, PyTorch, Scikit-learn)  
+- 🌐 Exploring JavaScript, React, and Node.js  
+- ⚽ Football fan – Manchester United & Real Madrid!  
+- 🌍 Proud **Ogiek**, advocating for marginalized communities  
+- 🗳️ Passionate about politics and public service  
+
+---
+
+### 🧰 Languages & Tools
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn logo"/>
+  <img width="12" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS logo"/>
+</div>
+
+---
+
+### 🔥 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=your-username&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="GitHub Streak Stats" />
+</div>
+
+---
+
+### ⚡ Fun Fact
+
+When I’m not building models or web apps, I’m probably on a football pitch or discussing policy ideas that impact real lives.
+
+---
+
+### 📫 Contact Me
+
+📧 **joshuajay596@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/simotwo01) | [X (https://x.com/SjJoshie)

@@ -42,7 +42,6 @@ Hi, I'm **Joshua Simotwo**, a passionate **Data Scientist**, **AI/ML enthusiast*
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS logo"/>
 </div>
 
 ---
@@ -50,10 +49,9 @@ Hi, I'm **Joshua Simotwo**, a passionate **Data Scientist**, **AI/ML enthusiast*
 ### 🔥 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=simotwo01&show_icons=true&theme=radical" height="180" />
+  <img src="https://streak-stats.demolab.com?user=simotwo01&theme=radical" height="180" />
 </div>
-
----
 
 ### ⚡ Fun Fact
 
